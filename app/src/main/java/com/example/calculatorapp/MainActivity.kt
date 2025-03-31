@@ -172,7 +172,7 @@ fun operacaoTratada(val1: String, val2: String): Int {
         val1.toDouble()
         val2.toDouble()
         1
-    } catch (e: Exception) {//Teste
+    } catch (e: Exception) {
         0
     }
 }
